@@ -2,12 +2,14 @@
     "data": [
         {
         "id": 1,
-        "username": "ny linda",
+        "fullname": "ny linda",
+        "username": "linda",
         "password": 182206
         },
         {
         "id": 2,
-        "username": "lai manith",
+        "fullname": "lai manith",
+        "username": "manith",
         "password": 220618
         }
     ]
