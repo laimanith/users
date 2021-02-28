@@ -1,12 +1,14 @@
-[
-    {
-      "id": 1,
-      "username": "ny linda",
-      "password": 182206
-    },
-    {
-      "id": 2,
-      "username": "lai manith",
-      "password": 220618
-    }
-  ]
+{
+    "users": [
+        {
+        "id": 1,
+        "username": "ny linda",
+        "password": 182206
+        },
+        {
+        "id": 2,
+        "username": "lai manith",
+        "password": 220618
+        }
+    ]
+}
